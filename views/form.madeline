@@ -3,6 +3,7 @@
 </head>
 <body>
 <header>#message#</header>
+<nav>#links#</nav><br />
 <div><label>#field1#</label> <input #type#></div>
 <div><label>#field2#</label> <input #type#></div>
 <div><label>#field3#</label> <textarea> </textarea></div>

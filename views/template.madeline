@@ -3,5 +3,7 @@
 </head>
 <body>
 <header>#message#</header>
-#content#
+<nav>#links#</nav><br />
+#content#<br />
+#register#
 </body>
